@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sahana 👋
 
-<!--
-**sahanabg2000/sahanabg2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MCA Graduate | Aspiring Cloud & DevOps Engineer
 
-Here are some ideas to get you started:
+## Skills
+- AWS
+- Linux
+- Git & GitHub
+- Docker
+- GitHub Actions
+- Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🚀 Automated Website Deployment using AWS EC2 & GitHub Actions
+
+🚀 Automated Dockerized Website Deployment on AWS EC2 using GitHub Actions CI/CD
+
+🚀 AWS VPC Architecture & Secure Private Server Access
+
+## Currently Learning
+- AWS Cloud Practitioner
+- CCNA
